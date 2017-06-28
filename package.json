@@ -22,9 +22,12 @@
   "homepage": "https://github.com/IgnetStudio/IPG_postCSS#readme",
   "devDependencies": {
     "autoprefixer": "^7.1.1",
+    "cssnano": "^3.10.0",
     "cssnext": "^1.8.4",
     "gulp": "^3.9.1",
     "gulp-postcss": "^7.0.0",
-    "precss": "^1.4.0"
+    "postcss-assets": "^4.1.0",
+    "precss": "^1.4.0",
+    "stylelint": "^7.12.0"
   }
 }
